@@ -3,3 +3,7 @@
 __pycache__
 htmlcov
 .coverage
+*.png
+*.html
+*.xml
+*.lock
